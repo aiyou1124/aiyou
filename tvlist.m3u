@@ -39,24 +39,5 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:2004:20:2800:0:df6e:ec21]/wh7f454c46tw3997260203_1403144048/ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8?icpid=4&RTS=1678666195&from=40&popid=40&hms_devid=2294&prioritypopid=40&vqe=3
 #EXTINF:-1,不知名4K
 http://[2409:8087:2004:20:2800:0:df6e:ec11]/wh7f454c46tw3939513710_-75405980/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8?icpid=3&RTS=1678666137&from=40&popid=40&hms_devid=2153&prioritypopid=40&vqe=3
-#EXTINF:-1,大飞吃鸡
-http://[2603:c020:6:2e00::6789]:35455/huya/52988
-#EXTINF:-1,楚河主机
-http://[2603:c020:6:2e00::6789]:35455/huya/chuhe
-#EXTINF:-1,六尾王者
-http://[2603:c020:6:2e00::6789]:35455/huya/77266
-#EXTINF:-1,星爷电影
-http://[2603:c020:6:2e00::6789]:35455/huya/11342412
-#EXTINF:-1,铁齿铜牙
-http://[2603:c020:6:2e00::6789]:35455/huya/11342396
-#EXTINF:-1,猫和老鼠
-http://[2603:c020:6:2e00::6789]:35455/huya/27882535
-#EXTINF:-1,孤影王者
-http://[2603:c020:6:2e00::6789]:35455/huya/guying
-#EXTINF:-1,地下交通站
-http://[2603:c020:6:2e00::6789]:35455/huya/11342433
-#EXTINF:-1,神探狄仁杰
-http://[2603:c020:6:2e00::6789]:35455/huya/11342425
-#EXTINF:-1,中天新闻
-http://[2603:c020:6:2e00::6789]:35455/youtube/w2VAo2gXjXw(?quality=1080/720...)
+
 
